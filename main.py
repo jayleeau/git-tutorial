@@ -1,2 +1,3 @@
-#version 1
-print("asdf")
+#version 2 
+def asdf():
+	print("aadfadsf")
